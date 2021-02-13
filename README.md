@@ -2,4 +2,4 @@
 
 for this you will need
 
-python, open cv, 
+python, pygame, 
