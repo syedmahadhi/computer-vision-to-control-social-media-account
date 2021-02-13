@@ -1,1 +1,5 @@
-# computer-vision-to-control-social-media-account
+# self driving car
+
+for this you will need
+
+python, open cv, 
