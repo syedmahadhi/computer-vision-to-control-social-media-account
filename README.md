@@ -2,4 +2,4 @@
 
 for this you will need
 
-python, pygame, 
+python, pygame
